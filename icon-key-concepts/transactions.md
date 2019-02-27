@@ -1,3 +1,11 @@
+# comments of review
+
+* lifecycle of transactions. ex: created, submitted, pending, confirm, and so on.
+* how to sign
+* how to confirm tx is in the block.
+
+
+
 ---
 title: "Transactions"
 ---
